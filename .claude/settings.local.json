@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(timeout 8 python bot.py)",
+      "Bash(echo \"EXIT_CODE: $?\")"
+    ]
+  }
+}
