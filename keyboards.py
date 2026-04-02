@@ -1,6 +1,6 @@
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-MANAGER_USERNAME = "manager_username"  # Замени на реальный username менеджера
+MANAGER_USERNAME = "timagotovko"
 
 def main_keyboard() -> InlineKeyboardMarkup:
     return InlineKeyboardMarkup(inline_keyboard=[
